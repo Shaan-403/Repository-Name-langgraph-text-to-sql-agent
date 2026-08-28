@@ -270,21 +270,7 @@ text-to-sql-agent/
 └── README.md
 ```
 
----
 
-## 📸 Screenshots
-
-### Streamlit UI
-
-Add screenshot here
-
-### LangGraph Workflow
-
-Add graph visualization here
-
-### LangSmith Trace
-
-Add trace screenshot here
 
 ---
 
